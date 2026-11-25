@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "Centinela-CO: fail-safe carbon monoxide dose monitor for gas heaters"
-  author:       "Equipo UTCJ - IEEE Open Silicon Bootcamp 2026"
+  author:       "Athos Chacon Morales"
   discord:      ""
   description:  "Two-channel CO dose integrator that withdraws a dynamic gas-valve permission inside the UL 2034 time windows"
   language:     "Verilog"
